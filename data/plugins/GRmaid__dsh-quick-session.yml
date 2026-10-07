@@ -1,0 +1,6 @@
+url: https://github.com/GRmaid/dsh-quick-session
+name: GRmaid/dsh-quick-session
+category: session
+description:
+  en: 'Starts a session without picking a workspace: each quick session gets its own scratch directory under the DSH home.'
+  zh: '不指定工作区即可开始新会话：每个快捷会话在 DSH 主目录下获得独立的临时目录。'
